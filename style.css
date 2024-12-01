@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    border: groove black;
+    margin-right: 400px;
+}
+img{
+    width: 45%;
+    height: 45%;
+    float: left;
+    padding-left: 0px;
+}
+
+header{
+    width: 30%;
+    background-color: rgb(25, 244, 175)
+}
+
+.entete{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+
+h2{
+    color: darkblue;
+    font-size: 30px;
+    border-top: solid rgb(26, 226, 166);
+}
+
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.profil{
+    margin: 40px;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+.section{
+    padding: 30px;
+}
